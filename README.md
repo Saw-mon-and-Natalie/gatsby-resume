@@ -1,5 +1,5 @@
 # Gatsby Resume
-A single app resume website build with [Gatsby](https://www.gatsbyjs.org/).
+A single page app for showcasing CV/resume build with [Gatsby](https://www.gatsbyjs.org/).
 
 ## Setup
 ```
