@@ -1,0 +1,37 @@
+{
+  "name": "gatsby-resume",
+  "version": "1.0.0",
+  "description": "A resume for Saw-mon of Saw-mon & Natalie",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saw-mon-and-Natalie/gatsby-resume.git"
+  },
+  "keywords": [
+    "gatsby",
+    "react",
+    "react-dom",
+    "tailwind",
+    "css"
+  ],
+  "author": "Saw-mon & Natalie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saw-mon-and-Natalie/gatsby-resume/issues"
+  },
+  "homepage": "https://github.com/Saw-mon-and-Natalie/gatsby-resume#readme",
+  "dependencies": {
+    "gatsby": "^2.19.45",
+    "gatsby-source-filesystem": "^2.1.56",
+    "gatsby-transformer-json": "^2.2.28",
+    "gatsby-transformer-remark": "^2.6.59",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0"
+  },
+  "devDependencies": {
+    "babel-preset-gatsby": "^0.2.36"
+  }
+}
